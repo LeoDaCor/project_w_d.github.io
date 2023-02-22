@@ -1,0 +1,40 @@
+{
+  "Escuadra" : "Equipment Kakashi",
+  "pais" : "Aldea de la Hoja",
+  "conformado" : 2014,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "nombre" : "Naruto",
+      "edad" : 32,
+      "nombreid" : "Naruto Uzumaki",
+      "jutsus" : [
+        "Rasengan",
+        "Clones de Sombra",
+        "Banbutsu Sôzô no Jutsu"
+      ]
+    },
+    {
+      "nombre" : "Sasuke",
+      "edad" : 12,
+      "nombreid" : "Sasuke Uchiha",
+      "jutsus" : [
+        "Sharingan",
+        "Chidori",
+        "Mangekyo Sharingan Eterno",
+        "Bola de Fuego"
+      ]
+    },
+    {
+      "nombre" : "Sakura",
+      "edad" : 12,
+      "nombreid" : "Sakura Haruno",
+      "jutsus" : [
+        "Jutsu Curativo de Reanimación y Regeneración",
+        "Fūinjutsu",
+        "Ninjutus Medico"
+      ]
+    }
+  ]
+}
